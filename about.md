@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Course
+title: About the Course
 permalink: /about/
 tags: about
 ---
