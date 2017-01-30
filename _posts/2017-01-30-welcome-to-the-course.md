@@ -25,4 +25,4 @@ You can find the schedule on the syllabus [here](https://github.com/cmscintervie
 
 
 ## Any Prerequisites?
-The minimum prerequisite for this course is a solid understanding of data structures and algorithms from CMSC 132. Students in CMSC 351 will better understand the algorithms portion of the course but find the communication portion of this course incredibly useful.
+The minimum prerequisite for this course is a solid understanding of data structures and algorithms from *CMSC 132*. Students in *CMSC 351* will better understand the algorithms portion of the course but find the communication portion of this course incredibly useful.
