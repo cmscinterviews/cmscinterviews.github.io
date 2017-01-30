@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Register for the Course
+title:      How to Register
 date:       2017-1-30 12:31:19
 summary:    How to register for the course.
 categories: about register
