@@ -5,16 +5,17 @@ permalink: /about/
 tags: about
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+This course aims to help students apply core computer science skills learnt in classes in the environment of the unfamiliar or intimidating technical interview.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+The course will take place on Fridays in CSIC 1122 from 2:00 p.m. to 2:50 p.m.
 
-Thanks to the following:
+The syllabus and schedule can be found [here](https://github.com/cmscinterviews/cmscinterviews.github.io/blob/master/syllabus.pdf).
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+Checkout the [Github repository](https://github.com/cmscinterviews/) for all course material files.
+
+Any questions can be emailed to *cmscinterviews@gmail.com*.
+
+Thanks to the following for making this course happen:
+
+* Dr. Samir Khuller
+* Dr. Alan Sussman
