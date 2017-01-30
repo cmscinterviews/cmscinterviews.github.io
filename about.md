@@ -8,6 +8,7 @@ tags: about
 ### 1/30/17 
 * Sign up for the course [here](https://goo.gl/forms/PI6i7ii077aHsgua2) if you are interested in attending!
 
+___
 
 ### About the Course
 This course aims to help students apply core computer science skills learnt in classes to the environment of the unfamiliar or intimidating technical interview.
