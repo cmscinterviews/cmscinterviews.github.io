@@ -8,7 +8,7 @@ categories: about introduction
 
 Have you always wanted to work at Google, Facebook, or (insert dream company here) but struggled with the technical interview? No more!
 
-This course aims to help students apply core computer science skills learnt in classes to the environment of the unfamiliar or intimidating technical interview. By utilizing sources of actual interviews questions, students will learn problem solving strategies as well as refining their oral and combination written-oral modes.
+This course (based on Stanford's famous CS9 Interview course) aims to help students apply core computer science skills learnt in classes to the environment of the unfamiliar or intimidating technical interview. By utilizing sources of actual interviews questions, students will learn problem solving strategies as well as refining their oral and combination written-oral modes.
 
 The course will also provide 1-1 mock interview oppurtunities with the instructors as well as extensive practice interview questions and resume critique. 
 
