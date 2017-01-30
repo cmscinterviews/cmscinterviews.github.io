@@ -5,7 +5,7 @@ permalink: /announcements/
 tags: about
 ---
 
-*01/30/17* - Sign up for the course [here](https://goo.gl/forms/PI6i7ii077aHsgua2) if you are interested in registering!
+`**01/30/17**` - Sign up for the course [here](https://goo.gl/forms/PI6i7ii077aHsgua2) if you are interested in registering!
 
 
 ### About the Course
