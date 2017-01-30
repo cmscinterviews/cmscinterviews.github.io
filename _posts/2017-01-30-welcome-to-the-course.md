@@ -12,6 +12,8 @@ This course (based on Stanford's famous CS9 Interview course) aims to help stude
 
 The course will also provide 1-1 mock interview oppurtunities with the instructors as well as extensive practice interview questions and resume critique.
 
+Sign up for the course [here](https://goo.gl/forms/PI6i7ii077aHsgua2) if you are interested in registering!
+
 We hope to see you there!
 
 ## Who is teaching it?
