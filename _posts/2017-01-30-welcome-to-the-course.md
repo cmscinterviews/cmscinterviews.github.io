@@ -23,7 +23,7 @@ The course will be taught by Sujith Vishwajith and Phong Dinh and is backed by t
 Fridays in CSIC 1122 from 2:00 p.m. to 2:50 p.m.
 
 ## Is there a schedule?
-You can find the schedule on the syllabus [here](https://github.com/cmscinterviews/cmscinterviews.github.io/blob/master/syllabus.pdf).
+You can find the schedule on the syllabus [here](https://github.com/cmscinterviews/CMSC-Interview-Course-Files/blob/master/syllabus.pdf).
 
 
 ## Any Prerequisites?
