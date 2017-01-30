@@ -5,7 +5,7 @@ permalink: /about/
 tags: about
 ---
 
-This course aims to help students apply core computer science skills learnt in classes in the environment of the unfamiliar or intimidating technical interview.
+This course aims to help students apply core computer science skills learnt in classes to the environment of the unfamiliar or intimidating technical interview.
 
 The course will take place on Fridays in CSIC 1122 from 2:00 p.m. to 2:50 p.m.
 
