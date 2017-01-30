@@ -10,6 +10,10 @@ Have you always wanted to work at Google, Facebook, or (insert dream company her
 
 This course aims to help students apply core computer science skills learnt in classes in the environment of the unfamiliar or intimidating technical interview. By utilizing sources of actual interviews questions, students will learn problem solving strategies as well as refining their oral and combination written-oral modes while solving problems. The goal is to help students apply past knowledge in the environment of the unfamiliar or intimidating technical interview.
 
+The course will also provide 1-1 mock interview oppurtunities with the instructors as well as practice interview questions and resume critique. 
+
+We hope to see you there!
+
 ## Who is teaching it?
 The course will be taught by Sujith Vishwajith and Phong Dinh and is backed by the CMSC Department. Both Sujith and Phong spent their last summer interning at Google and have succesfully interviewed with numerous startups/companies around the country.
 
