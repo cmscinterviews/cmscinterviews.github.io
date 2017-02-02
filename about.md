@@ -7,7 +7,7 @@ tags: about
 
 ### 1/30/17 
 * Sign up for the course [here](https://goo.gl/forms/PI6i7ii077aHsgua2) if you are interested in attending!
-
+* Lectures begin **2/3**.
 ___
 
 ### About the Course
