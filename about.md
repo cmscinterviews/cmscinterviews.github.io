@@ -7,6 +7,7 @@ tags: about
 
 ### 1/30/17 
 * Sign up for the course [here](https://goo.gl/forms/PI6i7ii077aHsgua2) if you are interested in attending!
+* Last day to register is 2/2 by 6:00 p.m.
 * Lectures begin **2/3**.
 ___
 
