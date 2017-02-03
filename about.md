@@ -4,6 +4,10 @@ title: Announcements
 permalink: /announcements/
 tags: about
 ---
+### 2/3/17
+* Today is the first day of class!
+* Make sure to bring a notebook to take notes and your resume if you want feedback.
+
 ### 2/2/17
 * Check the latest blog post for important announcements related to tomorrow's class!
 
