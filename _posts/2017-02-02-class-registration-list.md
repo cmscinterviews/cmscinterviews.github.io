@@ -67,7 +67,6 @@ Welcome and we look forward to seeing you tomorrow! Also, hopefully we will be o
 * Po-Sen Chen
 * Seunghun Kim
 * Patrick Zhang
-* Neelima Pradhan
 * Kevin Chen
 * Joon Won Park
 
