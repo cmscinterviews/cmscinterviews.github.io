@@ -12,7 +12,7 @@ Thanks to everyone who showed up and we hope you got a better understanding of r
 
 ## Job Hunting
 * Great place to find companies to apply to: [intern.supply](http://www.intern.supply/)
-* No harm in applying since the you won't get blacklisted.
+* No harm in applying since you won't get blacklisted by applying.
 
 ## Resume Design
 * Links to templates shown in lecture: 
