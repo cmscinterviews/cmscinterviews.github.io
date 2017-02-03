@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Lecture 1 Review
+title:      Lecture 1 Overview
 date:       2017-2-3 3:00:19
 summary:    All the material and concepts (behavioral interviews, resume, job hunting) covered in first lecture.
 categories: about class registration
@@ -64,5 +64,5 @@ Thanks to everyone who showed up and we hope you got a better understanding of r
 
 Next class we will start the technical portion of the seminar. Topics for next week will include arrays and strings.
 
-Thanks for a great first class,
+Thanks for a great first class,  
 CMSC Interviews
