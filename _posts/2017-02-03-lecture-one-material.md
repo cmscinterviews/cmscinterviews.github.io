@@ -10,6 +10,8 @@ Hi Everyone,
 
 Thanks to everyone who showed up and we hope you got a better understanding of resume design and behavioral interviews! Here is a brief overview of everythign covered in class. The presentation is available [here](https://github.com/cmscinterviews/CMSC-Interview-Course-Files/blob/master/Lecture%201%20-%20Intro%20to%20Course%20-%202:3:17.pdf).
 
+Those on the waitlist will be informed if they recieved a spot on Monday.
+
 ## Job Hunting
 * Great place to find companies to apply to: [intern.supply](http://www.intern.supply/)
 * No harm in applying since you won't get blacklisted by applying.
