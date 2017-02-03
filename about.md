@@ -4,6 +4,8 @@ title: Announcements
 permalink: /announcements/
 tags: about
 ---
+### 2/2/17
+* Check the latest blog post for important announcements related to tomorrow's class!
 
 ### 1/30/17 
 * Sign up for the course [here](https://goo.gl/forms/PI6i7ii077aHsgua2) if you are interested in attending!
