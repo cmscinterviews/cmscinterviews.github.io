@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Lecture 1 Overview
+title:      Lecture 1 Recap
 date:       2017-2-3 3:00:19
 summary:    All the material and concepts (behavioral interviews, resume, job hunting) covered in first lecture.
 categories: about class registration
