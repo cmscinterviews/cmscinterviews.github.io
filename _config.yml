@@ -7,14 +7,8 @@ baseurl:     ""
 url:         "https://cmscinterviews.github.io/"
 date_format: "%b %-d, %Y"
 
-# Google services
-google_verification:
-# Use either direct GA implementation or set up GTM account
-# - using both will skew your data (leave blank to not use at all)
-google_analytics:
-google_tag_manager:
-# Bing services
-bing_verification:
+# Google analytics
+google_analytics: UA-53548208-1
 
 # Optional features
 animated:             true
