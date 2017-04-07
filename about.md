@@ -4,6 +4,9 @@ title: Announcements
 permalink: /announcements/
 tags: about
 ---
+### 4/7/17
+* In-Class Worksheet [here](https://docs.google.com/document/d/1fDUVOIBnCmD1rDRT7HNEYfDXdssC5v7m1xZlQjo_gKw/edit)
+
 ### 2/3/17
 * Today is the first day of class!
 * Make sure to bring a notebook to take notes and your resume if you want feedback.
