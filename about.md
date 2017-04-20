@@ -4,6 +4,9 @@ title: Announcements
 permalink: /announcements/
 tags: about
 ---
+### 4/13/17
+* Sign up for Mock Interviews [here](https://docs.google.com/spreadsheets/d/11lIvJFdn9UbtgT5E5YN6BdHWrN8ne3DO6aWZUvYWEZk/edit#gid=0)!
+
 ### 4/7/17
 * In-Class Worksheet [here](https://docs.google.com/document/d/1fDUVOIBnCmD1rDRT7HNEYfDXdssC5v7m1xZlQjo_gKw/edit)
 
